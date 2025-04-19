@@ -14,7 +14,7 @@ function App() {
       <div className="min-h-screen bg-gradient-to-br from-sky-200 via-sky-100 to-white text-sky-900 overflow-auto">
       <div className="flex min-h-screen">
         <LeftSidebar />
-        <MainContent /> {/* Now inside the main flex */}
+        <MainContent /> 
         <RightSidebar />
       </div>
     </div>
